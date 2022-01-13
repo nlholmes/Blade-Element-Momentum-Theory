@@ -1,6 +1,6 @@
 # Blade-Element-Momentum-Theory
 
-Final project from the course V/STOL Aerodynamics
+Final project from the course V/STOL Aerodynamics. 
 Performs BEMT calculations given an input text file in the format:
 
 5         % Rotor radius
